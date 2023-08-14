@@ -2,96 +2,92 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xu Tao (陶旭)
+    - name: Position
+      value: Doctoral Student in Computer Science
+    - name:  Email
+      value: xu.tao@uky.edu
     - name: Languages
-      value: English, German
+      value: Chinese, English, Italian (Basic)
+    - name: Summary
+      value: A Doctoral Student in Computer Science at University of Kentucky.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer Science
+      institution: University of Kentucky, USA
+      year: 2021-09 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Supervised by <a href="https://silvestri.engr.uky.edu/">Dr. Siomone Silvestri </a>
+
+
+    - title: M.S. Compter Engineering
+      institution: Politectino di Torino, Italy
+      year: 2015-07 - 2018-04
+
+    - title: B.S. Computer Engineering
+      institution: Politectino di Torino, Italy
+      year: 2014-09 - 2015-07
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Researcher
+      institution: <a href="https://linksfoundation.com/en/">LINKS Foundation, Italy</a>
+      year: 2018-05 - 2021-08
+      description: Participate in the EU-funded H2020 project BRAIN-IoT, aimed at enabling intelligent, autonomous, and cooperative behaviors across diverse IoT devices and platforms. (Supervised by <a href="https://www.linkedin.com/in/claudiopastrone/?originalSubdomain=it">Cladio Pastrone</a> and <a href="https://www.linkedin.com/in/enricoferrera/?locale=en_US"> Enrico Ferrera</a>)
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Visiting Scholar
+      institution: <a href="https://www.slu.edu/index.php">Saint Louis University, USA</a>
+      year: 2017-07 - 2018-02
+      description: Master thesis research and development of a policy-based programmable container migration architecture. (supervised by <a href="https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/flavio-esposito.php"> Dr. Flavio Esposito </a>)
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Intern
+      institution: <a href="https://www.seica.com/"> Seica, Italy </a>
+      year: 2017-03 -2017-05
+      description: Responsible for developing a Cloud Bridge as part of an Automation Smart Home System.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Laboratory Assistant of Computer Networks
+      institution: Computer Engineering Department at Politecnico di Torino, Italy
+      year: 2016-09 -2017-02
+      description: Help students with lab assignments such as IP Protocols, VPN Configuration, and Network Traffic Anamysis.
+
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items:
+#        - Nobel Prize in Physics
+#        - Matteucci Medal
+#    - year: 2029
+#      items:
+#        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: IoT and Cyber-Physical Systems
       items:
-        - Description 1.
-        - Description 2.
+        - Integration of IoT and UAVs in smart agriculture
+        - Low-power communication, i.e., LoRaWAN
+    - title: Computer Networks Management and Monitoring
+      items:
+        - Network Tomography
+        - Software-defined Networking
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Figure Skating, Hiking, Dancing
