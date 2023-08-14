@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TaoXu00.github.io/xu-tao//sitemap.xml
+Sitemap: https://TaoXu00.github.io/sitemap.xml
