@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Xu3.png
+  image: Xu4.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Davis Marksbury Building</p>
