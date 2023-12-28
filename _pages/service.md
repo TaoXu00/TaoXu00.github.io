@@ -4,7 +4,7 @@ permalink: /service/
 title: service
 description: 
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 #### Treasure (Fall 2023 - present)
 
