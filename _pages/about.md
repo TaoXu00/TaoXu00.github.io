@@ -32,6 +32,7 @@ Please reach out to me via email.
 - Internet of Things 
 - Cyber-Physical Systems
 - Long Range Wide Area Network (LoRaWAN)
+- Smart Agriculture
 - Computer Network Management
 
 

@@ -4,13 +4,12 @@
     - name: Full Name
       value: Xu Tao (陶旭)
     - name: Position
-      value: Doctoral Student in Computer Science
+      value: Doctoral Student in Computer Science at University of Kentucky
     - name:  Email
       value: xu.tao@uky.edu
     - name: Languages
       value: Chinese, English, Italian (Basic)
-    - name: Summary
-      value: A Doctoral Student in Computer Science at University of Kentucky.
+
 
 - title: Education
   type: time_table
@@ -74,7 +73,6 @@
 #    - year: 2029
 #      items:
 #        - Max Planck Medal
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -86,6 +84,17 @@
       items:
         - Network Tomography
         - Software-defined Networking
+
+- title: Mentorship
+  type: list
+  contents:
+    - <b>Jackson Butcher</b>, Undergraduate Student, Computer Science at UKY (2022 summer -present)
+    - <b>Evan Damron </b>, Undergraduate Student, Computer Science at UKY (2023 summer -present)
+    - <b>Yenchia Yu</b>, Intern, LINKS Foundation, Turin, Italy (Jan - Jun, 2020).
+      <p>Now PhD student at <a href="https://www.polito.it/">Politecnico di Torino, Italy.</p>
+
+
+
 
 - title: Other Interests
   type: list
