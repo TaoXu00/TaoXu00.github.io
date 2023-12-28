@@ -8,7 +8,8 @@ nav_order: 3
 ---
 #### Treasure (Fall 2023 - present)
 
-Graduate Student Association Computer Science(GSACS), UKY
+<a href="https://gsacs.engr.uky.edu/" style="color: black">Graduate Student Association Computer Science(GSACS), UKY</a>
+
 
 
 #### Conference paper peer reviews
