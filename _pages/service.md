@@ -6,11 +6,8 @@ description:
 nav: true
 nav_order: 3
 ---
-#### Treasurer (Fall 2023 - present)
-
-<a href="https://gsacs.engr.uky.edu/" style="color: black">Graduate Student Association Computer Science(GSACS), UKY</a>
-
-
+#### <a href="https://gsacs.engr.uky.edu/" style="color: black"> Treasurer of Graduate Student Association Computer Science(GSACS), UKY</a>
+Fall 2023 - present
 
 #### Conference paper peer reviews
 
