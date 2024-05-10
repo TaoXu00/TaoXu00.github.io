@@ -33,6 +33,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant
+          institution: <a href="https://www.engr.uky.edu/research-faculty/departments/computer-science">Department of Computer Science, Univeristy of Kentucky, USA</a>
+          year: 2022-05 - Present
+          description: Research on NSF-funded projects centered around advancing smart agriculture technologies.
+
+    - title: Teaching Assistant
+        institution: <a href="https://www.engr.uky.edu/research-faculty/departments/computer-science">Department of Computer Science, Univeristy of Kentucky, USA</a>
+        year: 2021-09 - 2022-05
+        description: CS 101 Introduction to Computers
+
     - title: Researcher
       institution: <a href="https://linksfoundation.com/en/">LINKS Foundation, Italy</a>
       year: 2018-05 - 2021-08
@@ -45,7 +55,7 @@
       description: Master thesis research and development of a policy-based programmable container migration architecture. (supervised by <a href="https://www.slu.edu/science-and-engineering/academics/computer-science/faculty-and-staff/flavio-esposito.php"> Dr. Flavio Esposito </a>)
 
 
-    - title: Intern
+    - title: Sofeware Engineer Intern
       institution: <a href="https://www.seica.com/"> Seica, Italy </a>
       year: 2017-03 -2017-05
       description: Responsible for developing a Cloud Bridge as part of an Automation Smart Home System.
@@ -88,8 +98,10 @@
 - title: Mentorship
   type: list
   contents:
-    - <b>Jackson Butcher</b>, Undergraduate Student, Computer Science at UKY (2022 summer -present)
-    - <b>Evan Damron </b>, Undergraduate Student, Computer Science at UKY (2023 summer -present)
+    - <b>Jackson Butcher</b>, Undergraduate Student, Computer Science at UKY. (2022 summer -present)
+    - <b>Evan Damron </b>, Undergraduate Student, Computer Science at UKY. (2023 summer -present)
+    - <b>Stefano Bassino </b>, Uvisiting master student, Politecnico di Torino, Italy (Dec 2023 - June 2024)
+    - <b>Christian Cumini</b>, Visiting master student, Politecnico di Torino at Italy. (Oct 2023 - Mar 2024)
     - <b>Yenchia Yu</b>, Intern, LINKS Foundation, Turin, Italy (Jan - Jun, 2020).
       <p>Now PhD student at <a href="https://www.polito.it/">Politecnico di Torino, Italy.</p>
 
