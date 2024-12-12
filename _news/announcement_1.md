@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-Dec-12 
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement.
+Excited to be selected to attend the [NeTS Early Career Workshop 2025](https://sites.google.com/view/nets-early-career-2025/home?authuser=0) at the NSF Headquarters! 
