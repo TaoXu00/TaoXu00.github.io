@@ -1,3 +1,4 @@
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
@@ -304,11 +305,10 @@ blockquote {
 .social {
   text-align: left;
 
-
   .contact-icons {
     font-size: 2rem;
+
     a {
-    vertical-align: top;
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
