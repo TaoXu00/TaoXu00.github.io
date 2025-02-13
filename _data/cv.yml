@@ -76,6 +76,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        -  NSF Student Travel Grant Award to IEEE PerCom Conference, Washington DC, USA
     - year: 2024
       items:
         - <a href="https://risingstars.linklab.virginia.edu/2024/participants.html"> Cyber Physical Systems (CPS) Rising Stars </a>  (36 selected out of 220)
@@ -103,7 +106,7 @@
   type: list
   contents:
     - <b>Jackson Butcher</b>, Undergraduate Student, Computer Science at UKY. (2022 summer -present)
-    - <b>Evan Damron </b>, Undergraduate Student, Computer Science at UKY. (2023 summer -present)
+    - <b>Evan Damron </b>, Undergraduate Student, Computer Science at UKY. (2023 summer -Dec 2024)
     - <b>Stefano Bassino </b>, Visiting Master Student, Politecnico di Torino, Italy. (Dec 2023 - June 2024)
     - <b>Christian Cumini</b>, Visiting Master Student, Politecnico di Torino at Italy. (Oct 2023 - Mar 2024)
     - <b>Yenchia Yu</b>, Intern, LINKS Foundation, Turin, Italy (Jan 2020 - Jun, 2020).
