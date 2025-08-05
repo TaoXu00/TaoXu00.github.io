@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 Hello! My name is Xu Tao (陶旭). I am a tenure-track assistant professor of Information Technology at Kennesaw State University. 
 
 My research interests span networked systems, including Cyber-Physical Systems, decentralized Internet of Things (IoT) systems, and Software-Defined Networks. 
-I focus on developing AI-driven optimization techniques to enhance communication, computing efficiency, and Quality of Service (QoS), especially in resource-constrained and dynamic environments such as agricultural regions and smart cities.
+I focus on developing AI-driven optimization and edge intelligence techniques to enhance communication, computing efficiency, and Quality of Service (QoS), especially in resource-constrained and dynamic environments such as agricultural regions and smart cities.
 
 **Research Interests**
 - Edge Intelligence
@@ -33,8 +33,11 @@ I focus on developing AI-driven optimization techniques to enhance communication
 - Smart Agriculture
 - Network Management and Monitoring
 
-<br><br>
-📢 **I am looking for motivated Ph.D. students to join my research group starting from Spring 2026. Fully funded positions are available. I also welcome KSU Master's students and visting students. Feel free to reach out if you're interested, and include your CV, transcripts, and a short summary of your research experiences.**
+<br><br><br>
+📢 **I am actively looking for motivated Ph.D. students to join my research group starting from Spring 2026. Fully funded positions are available. I also welcome KSU Master's students and visting students. Feel free to reach out via email if you're interested, and include your CV, transcripts, and a short summary of your research experiences.** 
+
+I appreciate all applications; however, only those deemed highly fitting will be contacted due to the high volume received.
+   
 <br><br>
 
 
