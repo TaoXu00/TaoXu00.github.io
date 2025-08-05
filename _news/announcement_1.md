@@ -3,6 +3,7 @@ layout: post
 inline: true
 related_posts: false
 ---
+**08/04/25:** | Started a new role as faculty in Information Technology at KSU! 
 **04/10/25:** | Received the Outstanding Graduate Student Award from the Pigman College of Engineering at UKY! 
 **03/25/25:** | Glad to receive the Outstanding Graduate Student Award and Best Student Paper Award from CS Department at UKY.   
 **03/21/25:** | Our demo "iCrop+: An Edge-boosted Crop Disease Detection System via TinyML and LoRa Communication" receive the [Best Demo Runner Up Paper Award](https://www.percom.org/best-paper-award-details/) at PerCom 2025!

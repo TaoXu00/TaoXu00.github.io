@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 #### Leadership
-Fall 2024 - present,  Vice President, Graduate Student Association of Data and Computation (ADC), UKY \\
+Fall 2024 - May 2025,  Vice President, Graduate Student Association of Data and Computation (ADC), UKY \\
 Fall 2023 - Fall 2024, Treasurer, Graduate Student Association Computer Science(GSACS), UKY
 
 #### Journal paper peer reviews

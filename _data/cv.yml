@@ -4,9 +4,9 @@
     - name: Full Name
       value: Xu Tao (陶旭)
     - name: Position
-      value: Ph.D Candidate in Computer Science at University of Kentucky
+      value: Assistant Professor in Information Technology at Kennesaw State University
     - name:  Email
-      value: xu.tao@uky.edu
+      value: xtao@kennesaw.edu
     - name: Languages
       value: Chinese, English, Italian (Basic)
 
@@ -16,7 +16,7 @@
   contents:
     - title: Ph.D. in Computer Science
       institution: University of Kentucky, USA
-      year: 2021-09 - present
+      year: 2021-09 - 2025-05
       description:
         - Supervised by <a href="https://silvestri.engr.uky.edu/">Dr. Simone Silvestri </a>
 
@@ -35,7 +35,7 @@
   contents:
     - title: Research Assistant
       institution: <a href="https://www.engr.uky.edu/research-faculty/departments/computer-science">Department of Computer Science, Univeristy of Kentucky, USA</a>
-      year: 2022-05 - Present
+      year: 2022-05 - 2025-05
       description: Research on NSF-funded projects centered around advancing smart agriculture technologies.
 
     - title: Teaching Assistant
