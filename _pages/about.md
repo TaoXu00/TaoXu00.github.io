@@ -34,9 +34,9 @@ I focus on developing AI-driven optimization and edge intelligence techniques to
 - Network Management and Monitoring
 
 <br><br><br>
-📢 **I am actively looking for motivated Ph.D. students to join my research group starting from Spring 2026. Fully funded positions are available. I also welcome KSU Master's students and visting students. Feel free to reach out via email if you're interested, and include your CV, transcripts, and a short summary of your research experiences.** 
+📢 **I am looking for motivated Ph.D. students to join my research group starting from Fall 2026. Fully funded positions are available. I also welcome KSU Master's students and visiting students. Feel free to reach out via email if you're interested, and include your CV, transcripts, and a short summary of your research experiences.** 
 
-I appreciate all applications; however, only those deemed highly fitting will be contacted due to the high volume received.
+All applications are appreciated; however, only those deemed highly fitting will be contacted due to the high volume received.
    
 <br><br>
 
